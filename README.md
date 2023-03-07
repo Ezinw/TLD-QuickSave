@@ -10,3 +10,5 @@ Thank you:
 
 - Hinterland Studio Inc.
 - All the great people at [the Long dark Modding Discord](https://discord.com/channels/322211727192358914/371713326725726209)
+
+Always backup your save before using any mods.
